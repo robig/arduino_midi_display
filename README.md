@@ -1,4 +1,4 @@
-# Display current note names on four 7x7 led dot-matrix displays
+# Display current note names on four 8x8 led dot-matrix displays
 
 This is an Arduino project, to try to help my band mates and show where we are in the song.
 
